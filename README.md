@@ -6,6 +6,7 @@ This is useful for a couple places:
 - End to End test, if you don't want to manually add data attributes or classnames to all tags.
 - Third party usage tracking tools like Heap, where they can pick up data attributes.
 
+
 ## Before
 ```jsx
 // src/client/Components/Common/Header.jsx
